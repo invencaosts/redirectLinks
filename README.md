@@ -26,9 +26,9 @@ Redirect Links is a web application that allows the redirection of links, this s
 
 ## 🔐 License
 
-Este projeto está sob licença MIT.
+This project is licensed under MIT.
 
 ---
 
-Desenvolvido por: 
+Developed By: 
 - [Guilherme da Invenção](https://github.com/invencaosts)
