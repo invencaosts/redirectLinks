@@ -13,7 +13,7 @@ Redirect Links is a website created to redirect links.
 
 ## 🔧 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 - HTML e CSS
 - JavaScript
 - Tailwind
