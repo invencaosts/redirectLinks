@@ -1,4 +1,4 @@
-<p>README.md available in English. <a href="redirect-links-|-invencaodev---english-version">Go To!</a></p>
+<p>README.md available in English. <a href="redirect-links--invencaodev---english-version">Go To!</a></p>
 
 <h1 align="center">Redirect Links | invencaodev</h1>
 
@@ -7,7 +7,7 @@ Redirect Links é um site para redirecionamento de links.
 </p>
 
 <p align="center">
-  <a href="#-tecnologia">Tecnologias</a> |
+  <a href="#-tecnologias">Tecnologias</a> |
   <a href="#-projeto">Projeto</a> |
   <a href="#-licença">Licença</a>
 </p>
