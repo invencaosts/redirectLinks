@@ -1,4 +1,4 @@
-<p>README.md available in English. <a href="#redirect-links">Go To!</a></p>
+<p>README.md available in English. <a href="#redirect-links---english-version">Go To!</a></p>
 
 <h1 align="center">Redirect Links</h1>
 
